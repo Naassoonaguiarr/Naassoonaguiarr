@@ -39,12 +39,7 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 ### My Stack ~
 
-![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
-![tauri](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg)
-![supabase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg)
-![c](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tauri,supabase,c)](https://skillicons.dev)
 
 ---
 
