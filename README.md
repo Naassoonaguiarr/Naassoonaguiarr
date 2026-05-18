@@ -23,6 +23,8 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 ---
 
+<img align="right" width="150px" src="naasson.webp">
+
 ## 📬 Connect with me!
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com)
@@ -31,13 +33,21 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 <br>
 
-## ⚡ My Stack
+## ⚡ My Stack ~
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tauri,supabase,c)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="28"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="28"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/>
 
-<div align="center">
-  <img src="naasson.webp" width="300" />
-</div>
+<br clear="right"/>
 
 ---
 
