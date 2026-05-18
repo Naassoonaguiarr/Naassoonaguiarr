@@ -8,17 +8,9 @@
 
 ---
 
-<div align="center">
-
-<img src="naasson.webp" width="200" />
-
-</div>
-
 Formado pelo **Instituto Federal do Amazonas (IFAM)**. Apaixonado por resolver problemas — quanto mais complexo, mais me interessa. Nao fujo de desafio.
 
 Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e comandantes na Amazonia. E do **NFX Sistema**, software de controle pirotecnico com protocolo proprio — sistema delicado onde nao existe margem pra erro.
-
-O que me move e transformar processo manual em sistema confiavel — da passagem de barco ao show de fogos: **engenharia de ponta a ponta**.
 
 📍 Manaus, Amazonas
 
@@ -31,9 +23,25 @@ O que me move e transformar processo manual em sistema confiavel — da passagem
 
 ---
 
-## 🧰 Stack
+## 👨‍💻 Connect with me!
 
-**Front-end**
+<table><tr><td>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/Naassoonaguiarr)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6)](https://wa.me/5592999999999)
+
+</td><td align="right">
+
+<img src="naasson.webp" width="180" />
+
+</td></tr></table>
+
+---
+
+## 🧰 Tecnologias
+
+**_Front-end_**
 
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://react.dev)
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg)](https://vitejs.dev)
@@ -43,7 +51,7 @@ O que me move e transformar processo manual em sistema confiavel — da passagem
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]()
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)]()
 
-**Back-end**
+**_Back-end_**
 
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)](https://supabase.com)
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg)](https://deno.com)
@@ -51,7 +59,7 @@ O que me move e transformar processo manual em sistema confiavel — da passagem
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)]()
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)]()
 
-**Hardware & IoT**
+**_Hardware & IoT_**
 
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg)]()
 [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)]()
@@ -59,15 +67,9 @@ O que me move e transformar processo manual em sistema confiavel — da passagem
 
 ---
 
-## 📬 Connect with me!
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/Naassoonaguiarr)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6)](https://wa.me/5592999999999)
-
----
-
 <div align="center">
+
+![snake animation](https://raw.githubusercontent.com/Naassoonaguiarr/Naassoonaguiarr/output/github-contribution-grid-snake.svg)
 
 ![views](https://komarev.com/ghpvc/?username=Naassoonaguiarr&style=flat&color=14b8a6)
 
