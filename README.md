@@ -37,25 +37,14 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 </td></tr></table>
 
----
-
 ### My Stack ~
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" />
+![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+![tauri](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg)
+![supabase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg)
+![c](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
 
 ---
 
