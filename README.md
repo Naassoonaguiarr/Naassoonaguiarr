@@ -12,7 +12,7 @@ Formado pelo **Instituto Federal do Amazonas (IFAM)**. Apaixonado por resolver p
 
 Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e comandantes na Amazonia. E do **NFX Sistema**, software de controle pirotecnico com protocolo proprio — sistema delicado onde nao existe margem pra erro.
 
-📍 Manaus, Amazonas
+📍 Joinvilhe, Santa Catarina
 
 ---
 
@@ -20,6 +20,7 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 [![IFAM](https://img.shields.io/badge/Formacao-IFAM-14b8a6?style=for-the-badge&labelColor=1e3a5f)](https://ifam.edu.br)
 [![Six Sigma](https://img.shields.io/badge/Six_Sigma-Green_Belt-14b8a6?style=for-the-badge&labelColor=1e3a5f)]()
+[![Six Sigma](https://img.shields.io/badge/Six_Sigma-White_Belt-14b8a6?style=for-the-badge&labelColor=1e3a5f)]()
 
 ---
 
