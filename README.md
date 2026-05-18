@@ -14,13 +14,13 @@
 <div align="center">
 <table><tr><td>
 
-Desenvolvedor **fullstack** com pe no chao de fabrica. Construo sistemas inteiros — do codigo no browser ate o firmware no microcontrolador.
+Formado pelo **Instituto Federal do Amazonas (IFAM)**. Sou apaixonado por resolver problemas — quanto mais complexo, mais me interessa. Nao fujo de desafio, e foi assim que nasceram meus sistemas.
 
-Passo pelo **React + Supabase** na web, **Tauri + Rust** no desktop e **ESP32 + LoRa** no hardware.
+Sou o desenvolvedor do **Navega Facil**, plataforma de passagens fluviais que conecta passageiros, comandantes e vendedores na Amazonia. E do **NFX Sistema**, software profissional de controle pirotecnico com protocolo de comunicacao proprio — um sistema delicado onde nao existe margem pra erro.
 
 O que me move e transformar processo manual em sistema confiavel. Nao importa se e uma passagem de barco na Amazonia ou uma sequencia de fogos com sincronia musical — o principio e o mesmo: **engenharia de ponta a ponta**.
 
-📍 Amazonia, Brasil
+📍 Manaus, Amazonas
 
 </td></tr></table></div>
 
@@ -32,6 +32,7 @@ O que me move e transformar processo manual em sistema confiavel. Nao importa se
 
 | | |
 |---|---|
+| <img src="https://img.shields.io/badge/Formacao-IFAM-14b8a6?style=for-the-badge&labelColor=1e3a5f" width="200" /> | **Instituto Federal do Amazonas** <br> Ensino tecnico de excelencia com foco em ciencia e tecnologia |
 | <img src="https://img.shields.io/badge/Six_Sigma-Green_Belt-14b8a6?style=for-the-badge&labelColor=1e3a5f" width="280" /> | **Lean Six Sigma — Green Belt** <br> Melhoria de processos · Reducao de desperdicios · Analise estatistica · DMAIC |
 
 </div>
