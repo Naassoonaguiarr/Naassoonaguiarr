@@ -23,29 +23,32 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 ---
 
-<img align="right" width="150px" src="naasson.webp">
+<img align="right" width="260px" src="naasson.webp">
 
-## 📬 Connect with me!
+<h2 align="left">📬 Connect with me!</h2>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/Naassoonaguiarr)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6)](https://wa.me/5592999999999)
+<p align="left">
+  <a href="mailto:naassoonaguiarr@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6">
+  </a>
+  <a href="https://linkedin.com/in/Naassoonaguiarr">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6">
+  </a>
+  <a href="https://wa.me/5592999999999">
+    <img src="https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6">
+  </a>
+</p>
 
-<br>
+<h2 align="left">⚡ My Stack ~</h2>
 
-## ⚡ My Stack ~
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="28"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="28"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32"/>
+</p>
 
 <br clear="right"/>
 
