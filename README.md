@@ -23,7 +23,7 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 ---
 
-<table><tr><td>
+<table width="100%"><tr><td>
 
 ### Connect with me!
 
