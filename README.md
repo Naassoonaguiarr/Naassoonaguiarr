@@ -41,21 +41,21 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 ### My Stack ~
 
-![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![vite](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg)
-![tauri](https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg)
-![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-![supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)
-![deno](https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg)
-![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
-![rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)
-![arduino](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg)
-![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" />
 
 ---
 
