@@ -2,16 +2,17 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=14B8A6,1E3A5F,0D9488,3B82F6&section=header)](https://github.com/Naassoonaguiarr)
 
-**`D  E  S  E  N  V  O  L  V  E  D  O  R`**  
-Ola! Eu sou **Naassoon**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=14b8a6&width=700&size=20&center=true&lines=Fullstack+%7C+Hardware+%7C+Gestao;Desenvolvedor+do+Navega+Facil+e+NFX+Sistema;Green+Belt+Lean+Six+Sigma;Instituto+Federal+do+Amazonas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&random=false&width=524&lines=Ola%2C+eu+sou+Naassoon!;Fullstack+%7C+Hardware+%7C+Gestao;Green+Belt+Lean+Six+Sigma;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre
+<div align="center">
+
+<img src="naasson.webp" width="200" style="border-radius: 50%;" />
+
+</div>
 
 Formado pelo **Instituto Federal do Amazonas (IFAM)**. Apaixonado por resolver problemas — quanto mais complexo, mais me interessa. Nao fujo de desafio.
 
@@ -28,50 +29,53 @@ O que me move e transformar processo manual em sistema confiavel — da passagem
 [![IFAM](https://img.shields.io/badge/Formacao-IFAM-14b8a6?style=for-the-badge&labelColor=1e3a5f)](https://ifam.edu.br)
 [![Six Sigma](https://img.shields.io/badge/Six_Sigma-Green_Belt-14b8a6?style=for-the-badge&labelColor=1e3a5f)]()
 
-> *"Nao existe software bom sem processo bom. Six Sigma me deu a lente pra enxergar onde o sistema trava antes mesmo de escrever a primeira linha."*
-
 ---
 
 ## 🧰 Stack
 
-<div align="center">
+**Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tauri,html,css,js,nodejs,supabase,deno,rust,postgres,arduino,cpp,vercel,git,github,androidstudio,vscode,figma&perline=7)](https://skillicons.dev)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)](https://react.dev)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg)](https://vitejs.dev)
+[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg)](https://tauri.app)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)]()
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)]()
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)]()
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg)]()
+
+**Back-end**
+
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg)](https://supabase.com)
+[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg)](https://deno.com)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)]()
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)]()
+[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)]()
+
+**Hardware & IoT**
+
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg)]()
+[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)]()
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)]()
+
+---
+
+## 📬 Connect with me!
+
+<div align="left">
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/Naassoonaguiarr)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6)](https://wa.me/5592999999999)
 
 </div>
 
 ---
 
-## 📦 Projetos
-
 <div align="center">
 
-| 🚢 [**Embarquetur**](https://github.com/Naassoonaguiarr/meu-app) | 🎆 [**NFX Sistema**](https://github.com/Naassoonaguiarr/nfx) |
-|---|---|
-| Plataforma de passagens fluviais | Software de show pirotecnico |
-| React · Supabase · Pix · APK | Tauri · Rust · ESP32 · LoRa |
-
-</div>
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1e3a5f)](mailto:naassoonaguiarr@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=fff&labelColor=1e3a5f)](https://wa.me/5592999999999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1e3a5f)](https://linkedin.com/in/Naassoonaguiarr)
-
-</div>
-
----
-
-<div align="center">
+![snake animation](https://raw.githubusercontent.com/Naassoonaguiarr/Naassoonaguiarr/output/github-contribution-grid-snake.svg)
 
 [![views](https://komarev.com/ghpvc/?username=Naassoonaguiarr&style=flat&color=14b8a6)](https://github.com/Naassoonaguiarr)
-
-♡ [github](https://github.com/Naassoonaguiarr)
 
 </div>
 
