@@ -25,7 +25,7 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 <img align="right" width="260px" src="naasson.webp">
 
-<h2 align="left">📬 Connect with me!</h2>
+<h2 align="left">📬 Conecte-se Comigo!</h2>
 
 <p align="left">
   <a href="mailto:naassoonaguiarr@gmail.com">
