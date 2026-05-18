@@ -43,33 +43,33 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 **_Front-end_**
 
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://react.dev)
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg)](https://vitejs.dev)
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg)](https://tauri.app)
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)]()
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)
 
 **_Back-end_**
 
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)](https://supabase.com)
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg)](https://deno.com)
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)]()
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)
 
 **_Hardware & IoT_**
 
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)]()
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)]()
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)&nbsp;
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
 
 ---
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/Naassoonaguiarr/Naassoonaguiarr/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Naassoonaguiarr/Naassoonaguiarr/output/github-contribution-grid-snake-dark.svg)
 
 ![views](https://komarev.com/ghpvc/?username=Naassoonaguiarr&style=flat&color=14b8a6)
 
