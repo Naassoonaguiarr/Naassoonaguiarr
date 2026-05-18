@@ -23,9 +23,21 @@ Sou o criador do **Navega Facil**, plataforma fluvial que conecta passageiros e 
 
 ---
 
-| | |
-|---|---|
-| **Connect with me!** <br> [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/Naassoonaguiarr) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6)](https://wa.me/5592999999999) <br><br> **My Stack ~** <br> [![My Skills](https://skillicons.dev/icons?i=html,css,js,tauri,supabase,c)](https://skillicons.dev) | <img src="naasson.webp" width="180" /> |
+## 📬 Connect with me!
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:naassoonaguiarr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/Naassoonaguiarr)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14B8A6)](https://wa.me/5592999999999)
+
+<br>
+
+## ⚡ My Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tauri,supabase,c)](https://skillicons.dev)
+
+<div align="center">
+  <img src="naasson.webp" width="300" />
+</div>
 
 ---
 
